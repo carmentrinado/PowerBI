@@ -1,4 +1,4 @@
-Luxembourg’s Electricity Sector: Green Transition
+# Luxembourg’s Electricity Sector: Green Transition
 
 The Luxembourgish government offers subsidies to install solar panels. In this project, we assumed the role of the GG Group, an imaginary data analytics agency, to simulate a real-world professional context.
 
